@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cbt.finalproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AppGuideListActivity" />
+        <activity android:name=".About" />
+        <activity android:name=".AboutCBT" />
+        <activity android:name=".AboutBeck"/>
+        <activity android:name=".AboutRlaxation" />
+        <activity android:name=".AboutLifeStyle" />
+        <activity android:name=".AboutthoughtRecords" />
+        <activity android:name=".CbtTechniquesListActivity" />
+        <activity android:name=".RelaxationListActivity" />
+        <activity android:name=".DeepBreathing"></activity>
+        <activity android:name=".LifeStyleListActivity"></activity>
+        <activity android:name=".LifeStyleTipsListActivity"></activity>
+        <activity android:name=".LessonContent"></activity>
+        <activity android:name=".EatingTipsContent"></activity>
+        <activity android:name=".SleepingTipsContent"></activity>
+        <activity android:name=".PhysicalActivitiesContent"></activity>
+        <activity android:name=".MentalHealthContent"></activity>
+        <activity android:name=".NoSmokingContent"></activity>
+    </application>
+
+</manifest>

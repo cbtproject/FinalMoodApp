@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">CBT</string>
+
+
+    <!--Dashboard Strings-->
+    <string name="categories">Main Categories</string>
+    <string name="app_guide">App Guide</string>
+    <string name="beck_inventory">Beck Inventory</string>
+    <string name="cbt_techniques">CBT Techniques</string>
+    <string name="Charts">Charts</string>
+    <string name="status_review">Status Review</string>
+    <string name="Settings">Settings</string>
+
+    <!--App guide titles and subtitles-->
+    <string name="aboutTitle">About</string>
+    <string name="aboutSub">About the App</string>
+    <string name="cbtTitle">CBT</string>
+    <string name="cbtSub">Want to find out more about CBT ?</string>
+    <string name="beckScaleTitle">What is Beck Scale!</string>
+    <string name="beckScaleSub">Beck Depression inventory BDI</string>
+    <string name="relaxTitle">Relaxation</string>
+    <string name="relaxSub">More About Relaxation techniques</string>
+    <string name="lifeStyleTitle">Life Style</string>
+    <string name="lifeStyleSub">More Information about how to choose a well suited life-style</string>
+    <string name="thoughTitle">Thought Records</string>
+    <string name="thoughtSub">Know more about What is Thought record and how it can make a difference in your life </string>
+
+    <!--About Page String-->
+    <string name="aboutApp">"About the Application.\n \n \n"
+                        "    Self guide application that brings clarity,\n"
+                        "   joy and peace to your daily life by providing Daily tools for depression ,\n"
+                        "    anxiety and stressful life situations ,Based on a scientific research on Cognitive Behavioural Therapy mobile app\n"
+                        "    you may read the guide to better use of the tools!.\n"</string>
+
+    <!--cbt information-->
+    <string name="aboutCBT">"Cognitive behavioural therapy(CBT): is  a therapy that can help you manage your problems by changing the way you think and behave.\n \n \n \n"
+
+                        "CBT typically includes these steps:\n \n"
+                        "    * Identify troubling situations or conditions in your life.\n"
+                        "    * Clearing your mind and Become aware of your thoughts, emotions and beliefs about these problems.\n"
+                        "    * Identify negative or inaccurate thinking.\n"
+                        "    * Reshape negative or inaccurate thinking.\n"</string>
+
+    <!--beck information-->
+    <string name="aboutBeck">"Beck depression inventory BDI /n" "BDI:\n \n"
+
+        "is a 21-question multiple-choice self-report inventory, one of the most widely used psychometric tests for measuring the severity of depression.\n"
+
+        "It is going to provide you with a score and then presented on the charts\n"
+        "category with older scores you have got, showing your progress of your depression status.\n"</string>
+
+    <!--Relaxation Information-->
+    <string name="aboutRelaxation">"Relaxation techniques \n \n"
+            "Calm your mind with deep breathing, progressive muscle relaxation, and  mindfulness meditations. \n"
+            "First you can use the deep breathing technique to experience relaxation and regularity of your breath, \n"
+            " Bringing regularity and calm to your breath will allow you to approach your problems from a place of balance, facilitating more effective and rational decision making. \n"
+            "This is a familiar technique to those who practice mindfulness. Similar to the body scan, this technique instructs you to relax one muscle group at a time until your whole body is in a state of relaxation.  it can be especially helpful for calming nerves and soothing an unfocused mind.
+
+In addition you can listen to a soothing audio to help you meditate , clear your mind and moreover help you go to sleep!"
+
+    </string>
+
+    <!--About lifeStyle-->
+    <string name="aboutLifeStyle">
+        "Lifestyle \n \n"
+        "This category has two main sections: \n"
+        "* First the mood/activity tracking: \n"
+            "Record your mood throughout the day. Track health activities (sleep, exercise, etc.) to identify patterns in your moods.
+            And see your progress over time to help you understand your up's and downs, and to recognize patterns, in a chart representation. \n"
+        "* Second section will enrich you with Tips for a better life: \n"
+            "Provides you with a life-changing tips to have a better lifestyle ,to be more productive ,stress-free and relaxed. and so more relieved and happy. \n"
+        "* In addition to: \n"
+            "Tricks to make you challenge the dysfunctional or harmful opinions about yourself and others.
+             Motivational and guidance  audios to guide through your stressful life situations and hard days"
+    </string>
+
+    <!--About Thought Records-->
+    <string name="aboutThoughtRecord">
+        "thought record: \n \n \n"
+        "A thought record is a way of putting your thoughts to the test.
+        It’s designed to help you change your moods by finding a more balanced way of thinking about things.
+        In short, you identify a dubious thought and "put it on trial. \n"
+        "Thought records are useful in testing the validity of your thoughts,
+        They involve gathering and evaluating the evidence for and against a particular thought,
+        allowing for an evidence-based conclusion on whether the thought is valid or not. \n"
+        "Follow the questions and their instructions to get the best results. \n"
+    </string>
+
+    <!--CBT Techniques titles and subtitles-->
+    <string name="relaxationTitle">Relaxation</string>
+    <string name="relaxationSub">All the techniques that can aid you to reach you zen mode</string>
+    <string name="thoughtRecordTitle">Thought Record</string>
+    <string name="thoughtRecordSub">Want to find out more about your self ?</string>
+    <string name="lifeStyle_Title">Life Style</string>
+    <string name="lifeStyle_Sub">techniques that helps you to choose a well suited life-style</string>
+
+    <!--Relaxation Techniques titles and subtitles-->
+    <string name="deepBreathingTitle">Deep Breathing</string>
+    <string name="deepBreathingSub">Deep breathing technique</string>
+    <string name="meditationTitle">Meditation Audio</string>
+    <string name="meditationSub">Relaxing/Meditation audio</string>
+    <string name="muscleRelaxationTitle">Guided Relaxation Audio</string>
+    <string name="muscleRelaxationSub">Relax your Muscles techniques with a help of our guide audio</string>
+
+    <!--LifeStyle List titles and subtitles-->
+    <string name="healthTrackingTitle">Health Tracking</string>
+    <string name="healthTrackingSub">Track your health on the fly</string>
+    <string name="lifeStyletipsTitle">Life Style Tips</string>
+    <string name="lifeStyletipsSub">Information and guides </string>
+    <string name="moodGalleryTitle">Mood Gallery</string>
+    <string name="moodGallerySub">A Gallery with images that relaxes the mind</string>
+
+    <!--LifeStyle List TIPS titles and subtitles-->
+    <string name="lessonTitle">Lesson</string>
+    <string name="LessonSub">Important information for a better health-care</string>
+    <string name="eatingTipsTitle">Eating Tips</string>
+    <string name="eatingTipsSub">Information and guides for eating </string>
+    <string name="sleepingTipsTitle">Sleeping Tips</string>
+    <string name="sleepingTipsSub">Information and guides for A better sleep </string>
+    <string name="physicalTitle">Physical activity and exercise</string>
+    <string name="physicalSub">Excercise tips and tricks</string>
+    <string name="mentalHealthTitle">Mental health</string>
+    <string name="mentalHealthSub">Tips for Mental health</string>
+    <string name="stopSmokingTitle">Stop Smoking</string>
+    <string name="stopSmokingSub">Tips for Smokers about How it affects your health</string>
+
+    <!-- ######################################################## -->
+    <string name="lessonContent">
+        "Healthy living" to most people means both physical and mental health are in balance or functioning well together in a person. In many instances,
+            physical and mental health are closely linked, so that a change (good or bad) in one directly affects the other. Consequently,
+            some of the tips will include suggestions for emotional and mental "healthy living."
+            Good health isn’t just about healthy eating and exercise — it also includes having a positive mental health, a healthy self-image, and a healthy lifestyle
+
+    </string>
+
+    <string name="eatingTipsContent">
+        "•	Eat three meals a day (breakfast, lunch, and dinner); it is important to remember that dinner does not have to be the largest meal.\n"
+        "•	Avoid eating a large meal before sleeping to decrease gastroesophageal reflux and weight gain.\n"
+        "•	If a person is angry or depressed, eating will not solve these situations and may make the underlying problems worse.\n"
+        "•	The bulk of food consumption should consist of fruits, vegetables, whole grains, and fat-free or low-fat milk products\n"
+        "•	Avoid sodas and sugar-enhanced drinks because of the excessive calories in it.\n"
+       " •	Drink more water. Most of us don’t drink enough water every day. Water is essential for our bodies to function.\n"
+       " •	A lot of eating happens because one feels unhappy, so by staying in a positive state yourself, you cut out that unhealthy dependence on food to be happy.\n"
+       " •	Cut out soda and caffeine.\n"
+        "•	Learn to say no. Don’t feel like you need to eat just because you’re out with friends or because other people offer you food. Simply say no and say you’re not hungry if you don’t feel like eating.\n"
+
+    </string>
+
+    <string name="sleepingTipsContent">
+  " 1.	Stick to a sleep schedule of the same bedtime and wake up time, even on the weekends. This helps to regulate your body's clock and could help you fall asleep and stay asleep for the night. \n"
+    "2.	Create a restful environment for your self. \n"
+    "3.	Practice a relaxing bedtime ritual. A relaxing, routine activity right before bedtime conducted away from bright lights helps separate your sleep time from activities that can cause excitement, stress or anxiety which can make it more difficult to fall asleep, try the app's meditation and relaxing audios .\n"
+    "4.	Wind down.Your body needs time to shift into sleep mode, so spend the last hour before bed doing a calming activity such as reading and avoid electronics before bed or in the middle of the night.\n"
+    "5.	avoid naps, especially in the afternoon. Power napping may help you get through the day, but if you find that you can't fall asleep at bedtime, eliminating even short catnaps may help. \n"
+    "6.	Exercise daily. Vigorous exercise is best, but even light exercise is better than no activity. Exercise at any time of day, but not at the expense of your sleep. \n"
+    "7.	Avoid cigarettes, and heavy meals in the evening \n"
+
+    </string>
+    
+    <string name="mentalHealthContent">
+       "•	Take a walk and reflect on what you see and hear at least several times per week. \n"
+       "•	Try something new and often (eat a new food, try a different route to work, go to a new museum display). \n"
+       "•	Do some mind exercises (read, do a puzzle occasionally during the week). \n"
+       "•	Try to focus on a process intensely and complete a segment of it over one to several hours, then take a break and do something relaxing (walk, exercise, short nap).\n"
+       "•	Plan to spend some time talking with other people about different subjects. \n"
+       "•	Learn ways to say "no" when something occurs that you do not want to do or be involved with. \n"
+       "•	Have fun (go on a trip with someone you love, go shopping, go fishing; do not let vacation time slip away).\n"
+       "•	Let yourself be pleased with your achievements, both big and small (develop contentment).\n"
+       "•	Seek help and advice early if you feel depressed, have suicidal thoughts, or consider harming yourself or others.\n"
+       "•	People taking medicine for mental-health problems should not stop taking these medications, no matter how "well" they feel, until they have discussed their situation with their prescribing doctor(s).\n"
+
+    </string>
+
+    <string name="physicalActivitiesContent">\n"
+       "•	Regular exercise can prevent and reverse age-related decreases in muscle mass and strength, improve balance, flexibility, and endurance, and decrease the risk of falls in the elderly.\n"
+       "•	Regular exercise can help increase self-esteem and self-confidence, decrease stress and anxiety, enhance mood, and improve general mental health.\n"
+       "•	Regular exercise can help control weight gain and in some people cause loss of fat.\n"
+       "•	Start slowly and progress gradually to avoid injury or excessive soreness or fatigue. Over time, build up to 30 to 60 minutes of moderate to vigorous exercise every day.\n"
+       "•	People are never too old to start exercising. Even frail, elderly individuals (70-90 years of age) can improve their strength and balance with exercise.\n"
+
+    </string>
+
+    <string name="stopSmokingContent">
+       "Stop smoking. \n"
+       "It has been extensively proven that smoking is detrimental to health,
+       "severely increasing the risk of lung cancer, kidney cancer, esophageal cancer (of our gullet), heart attack,
+       "and more. Smoking “light” cigarettes do not decrease health risks either.\n"
+       "Bottom line: if you’re a smoker, quit for better health of not just yourself, but also your family and friends. If you don’t smoke, stay that way and don’t start."
+    </string>
+
+
+</resources>
